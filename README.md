@@ -5,7 +5,7 @@
 
 - Webアプリ開発、データサイエンス、数学が好きです
 
-- 詳しい自己紹介は <a href="https://techmath-project.com/yukkin/" target="_blank" rel="noopener noreferrer">こちら</a> をご確認ください
+- 詳しい自己紹介は ![こちら](https://techmath-project.com/yukkin/) をご確認ください
 
 ## スキルセット  
 ### HTML/CSS/JavaScript
