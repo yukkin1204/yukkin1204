@@ -8,4 +8,10 @@
 
 - 競技プログラミングにも取り組んでいます（AtCoder A🟢）
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukkin1204&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+## My Skill Set  
+### HTML/CSS/JavaScript
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,nodejs,react,googleappsscript,&theme=dark&titles=true)
+### Python/AI
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,django,flask,streamlit,scikitlearn,pytorch,&theme=dark&titles=true)
+### Etc
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,linux,mysql,aws,googleanalytics,looker,wordpress,latex&theme=dark&titles=true)
