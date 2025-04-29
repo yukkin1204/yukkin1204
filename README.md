@@ -1,14 +1,13 @@
-<h1 align="center">
-  こんにちは！ Yukkinです。 
-</h1>
+# こんにちは！ Yukkinです。 
 
-- 経歴：大阪大学理学部数学科→高校数学教諭→システムエンジニア→プログラミング講師
+## 自己紹介
+- 現在はプログラミング講師として、学生のプログラミング活動を支援しています
 
 - Webアプリ開発、データサイエンス、数学が好きです
 
-- 競技プログラミングにも取り組んでいます（AtCoder A🟢）
+- 詳しい自己紹介は [こちら](https:..techmath-project.com/yukkin) をご確認ください
 
-## My Skill Set  
+## スキルセット  
 ### HTML/CSS/JavaScript
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,nodejs,react,googleappsscript,&theme=dark&titles=true)
 ### Python/AI
